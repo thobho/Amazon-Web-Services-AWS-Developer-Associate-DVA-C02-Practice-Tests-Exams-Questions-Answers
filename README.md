@@ -1,4 +1,4 @@
-** Skończyłem na pytaniu 66 **
+** Skończyłem na pytaniu 149 **
 
 # ⬆️ Amazon Web Services Certified (AWS Certified) Developer Associate (DVA-C02) Practice Tests Exams Questions & Answers
 
